@@ -1,6 +1,6 @@
 {
 	"name": "nativescript-last_known_location",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "nativescript android plugin to get last known location .",
 	"main": "index.js",
 	"typings": "index.d.ts",
